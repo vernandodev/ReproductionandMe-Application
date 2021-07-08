@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentScanAR"
+    android:background="@color/latar2">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <ImageButton
+            android:id="@+id/btn_panduan"
+            android:layout_width="350dp"
+            android:layout_height="75dp"
+            android:background="@drawable/panduan"
+            android:layout_marginLeft="30dp"
+            android:elevation="2dp"
+            android:layout_marginTop="70dp">
+        </ImageButton>
+
+        <ImageButton
+            android:id="@+id/btn_video"
+            android:layout_width="350dp"
+            android:layout_height="75dp"
+            android:background="@drawable/video"
+            android:layout_marginLeft="30dp"
+            android:elevation="2dp"
+            android:layout_marginTop="170dp">
+        </ImageButton>
+        <ImageButton
+            android:id="@+id/btn_scan"
+            android:layout_width="350dp"
+            android:layout_height="75dp"
+            android:background="@drawable/scan"
+            android:layout_marginLeft="30dp"
+            android:elevation="2dp"
+            android:layout_marginTop="270dp">
+        </ImageButton>
+
+        <ImageButton
+            android:layout_width="350dp"
+            android:layout_height="75dp"
+            android:layout_marginLeft="30dp"
+            android:backgroundTint="@color/latar2"
+            android:elevation="2dp"
+            android:layout_marginTop="400dp">
+        </ImageButton>
+
+
+
+    </RelativeLayout>
+
+
+
+
+
+</ScrollView>

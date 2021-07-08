@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.reproductionandme">
+
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-feature android:name="android.hardware.camera.ar" android:required="true"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Intro">
+        <activity android:name="com.example.reproductionandme.videoActivity"></activity>
+        <activity
+            android:name="com.example.reproductionandme.HandlerPanduanScan"
+            android:label="@string/title_activity_handler_panduan_scan"
+            android:theme="@style/Theme.Intro.NoActionBar" />
+        <activity
+            android:name="com.example.reproductionandme.PencegahanActivity"
+            android:label="@string/title_activity_pencegahan"
+            android:theme="@style/Theme.Intro.NoActionBar" />
+        <activity
+            android:name="com.example.reproductionandme.GangguanActivity"
+            android:label="@string/title_activity_gangguan"
+            android:theme="@style/Theme.Intro.NoActionBar" />
+        <activity
+            android:name="com.example.reproductionandme.SiklusnActivity"
+            android:label="@string/title_activity_siklusn"
+            android:theme="@style/Theme.Intro.NoActionBar" />
+        <activity
+            android:name="com.example.reproductionandme.PengertianActivity"
+            android:label="@string/title_activity_pengertian"
+            android:theme="@style/Theme.Intro.NoActionBar" />
+
+        <meta-data android:name="com.google.ar.core" android:value="required" />
+        <activity android:name="com.example.reproductionandme.IntroActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.reproductionandme.MainActivity" />
+        <activity android:name="com.example.reproductionandme.HandlerScan" />
+    </application>
+
+</manifest>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".FragmentHome"
+    android:background="@color/latar1"
+    android:orientation="vertical"
+    android:id="@+id/fragmenthome">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.denzcoskun.imageslider.ImageSlider
+            android:layout_width="410dp"
+            android:id="@+id/slider"
+            android:layout_height="214dp"
+            app:iss_auto_cycle="true"
+            android:layout_marginTop="60dp"
+            android:layout_marginLeft="170dp"
+            app:iss_placeholder="@drawable/banner3"
+            app:iss_error_image="@drawable/banner3"
+            app:iss_period="2000"
+            app:iss_corner_radius="5">
+        </com.denzcoskun.imageslider.ImageSlider>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/pink3"
+            android:elevation="4dp"
+            android:layout_marginTop="280dp">
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="Tentang Menstruasi"
+                android:fontFamily="sans-serif"
+                android:textColor="@color/white"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@color/white"
+            android:layout_marginTop="345dp"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/btn_pengertian"
+                android:layout_width="125dp"
+                android:layout_height="125dp"
+                android:background="@drawable/pengertian"
+                android:layout_marginTop="20dp" />
+
+            <ImageButton
+                android:id="@+id/btn_siklusn"
+                android:layout_width="125dp"
+                android:layout_height="125dp"
+                android:background="@drawable/siklus"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="20dp"/>
+
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:background="@color/white"
+            android:layout_marginTop="495dp"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/btn_siklust"
+                android:layout_width="125dp"
+                android:layout_height="125dp"
+                android:background="@drawable/gangguan"
+                android:layout_marginTop="25dp"/>
+
+            <ImageButton
+                android:id="@+id/btn_gangguan"
+                android:layout_width="125dp"
+                android:layout_height="125dp"
+                android:background="@drawable/pencegahan"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="25dp"/>
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@color/white"
+            android:layout_marginTop="700dp"
+            android:gravity="center">
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+</ScrollView>

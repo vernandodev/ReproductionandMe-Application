@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">Reproduction and Me</string>
+    <string name="mens3d">Reproduction and Me</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Fragment">Fragment</string>
+    <string name="FragmentHome">Home</string>
+    <string name="FragmentScanAR">Scan AR</string>
+    <string name="FragmentTentang">Tentang</string>
+
+    <string name="pengertian">
+        Menstruasi adalah serangkaian perubahan yang terjadi pada bagian tubuh wanita yaitu pada (ovarium, rahim, vagina, dan payudara) rata-rata waktunya setiap 28 hari.
+        Fase Menstruasi terjadi jika tidak ada proses pembuahan/fertilisasi ovum oleh sel sperma sehingga terjadi peluruhan dinding endometrium.
+    </string>
+    <string name="pengertianlanjutan">
+        Peluruhan dinding endometrium pada fase menstruasi dipengaruhi oleh hormon progesteron dan hormon enstrogen yang jumlahnya menurun akibat tidak ada fertilisasi.
+        Hormon estrogen dan progesteron yang jumlahnya menurun mengakibatkan terjadinya menstruasi ditandai dengan darah haid keluar melalu vagina.
+    </string>
+    <string name="pengertian1">
+        Beberapa siklus menstruasi normal waktunya sedikit lebih lama dan ada beberapa yang lebih cepat. Hari pertama periode menstruasi adalah hari pertama siklus menstruasi.
+        Periode menstruasi rata-rata berlangsung sekitar lima hingga tujuh hari. Periode menstruasi yang normal pada tubuh anda mungkin akan berbeda dengan yang ada pada orang lain.
+    </string>
+    <string name="pengertian2">
+        Source : www.healthywomen.org
+    </string>
+    <string name="namaorgan">
+        Nama dan fungsi alat reproduksi wanita :
+    </string>
+    <string name="namaorgan1">
+        1. Uterus (rahim), adalah organ yang berongga dan berbentuk menyerupai buah pir yang merupakan tempat bagi janin untuk berkembang semasa kehamilan.
+    </string>
+    <string name="namaorgan2">
+        2. Vagina, adalah jalur yang menghubungkan serviks (mulut rahim) ke bagian luar tubuh. Vagina dikenal juga sebagai jalan lahir. Saat berhubungan seksual,
+        sperma akan disalurkan ke dalam organ ini melalui penis.
+    </string>
+    <string name="namaorgan3">
+        3. Serviks atau leher rahim adalah bagian ujung rahim yang menyempit dan menghubungkan mulut rahim dengan vagina
+    </string>
+    <string name="namaorgan4">
+        4. Rongga rahim (endometrium), terdiri dari dua lapisan jaringan yang menempel pada otot rahim. Lapisan pertama umumnya tidak berubah,
+        sedangkan lapisan kedua bersifat dinamis dan bisa berubah seiring naik-turunnya hormon estrogen sepanjang siklus menstruasi.
+    </string>
+    <string name="namaorgan5">
+        5. Ovarium, adalah kelenjar berbentuk oval dan berukuran kecil yang terletak di kedua sisi rahim. Ovarium menghasilkan sel telur dan hormon estrogen serta progesteron.
+    </string>
+    <string name="namaorgan6">
+        6. Tuba Fallopi, organ ini berbentuk menyerupai tabung kecil yang menempel di bagian atas rahim. Tuba falopi berfungsi sebagai jalur sel telur untuk bergerak dari ovarium ke rahim.
+    </string>
+    <string name="namaorgan7">
+        7. Sel telur, adalah sel reproduksi (gamet) yang dihasilkan dari ovarium pada organ reproduksi wanita.
+    </string>
+    <string name="namaorgan8">
+        Source : www.alodokter.com
+    </string>
+
+
+    <string name="siklus">
+        Siklus menstruasi terjadi pada wanita dengan 4 tahapan yaitu fase menstruasi, fase folikular, fase ovulasi, dan fase luteal. Berikut tahapannya :
+    </string>
+    <string name="siklus1">
+        1. Fase Menstruasi terjadi apabila tidak ada proses pembuahan sel telur oleh sel sperma sehingga terjadi peluruhan pada rongga rahim. Peluruhan tersebut
+        dipengaruhi oleh hormon progesteron dan estrogen.
+    </string>
+    <string name="siklus1lanjutan">
+        Hormon estrogen dan progesteron yang jumlahnya menurun mengakibatkan terjadinya menstruasi ditandai dengan darah haid keluar melalu vagina.
+    </string>
+    <string name="siklus2">
+        2. Fase Folikular yang ditandai dengan perkembangan folikel primer menjadi folikel sekunder yang dirangsang oleh hormon FSH (Folikel Stimulating Hormone). Hormon FSH akan
+        merangsang ovarium untuk membentuk folikel berisi sel telur yang belum matang.
+    </string>
+    <string name="siklus2lanjutan">
+        Folikel yang sedang mengalami pematangan akan mengeluarkan hormon estrogen untuk merangsang penebalan rongga rahim.
+    </string>
+    <string name="siklus3">
+        3. Fase Ovulasi terjadi ketika ovarium melepaskan sel telur yang sudah matang ke saluran tuba fallopi, sel telur akan keluar dari ovarium dan berjalan menuju
+        rongga rahim untuk siap dibuahi oleh sperma.
+    </string>
+    <string name="siklus3lanjutan">
+        jika sel telur tidak dibuahi maka sel telur akan meluruh setelah terjadinya ovulasi.
+    </string>
+    <string name="siklus4">
+        4. Fase Luteal terjadi saat folikel yang sudah mengeluarkan sel telur yang sudah matang berubah menjadi korpus luteum. korpus luteum mengeluarkan hormon estrogen
+        dan progesteron untuk menjaga agar rongga rahim tetap tebal.
+    </string>
+    <string name="siklus4lanjutan">
+        Jika terjadi pembuahan maka ketebalan rongga rahim akan dipertahankan dan siap untuk menerima embrio, namun jika tidak terjadi pembuahan maka akan kembali ke fase menstruasi lagi.
+    </string>
+    <string name="siklus5">
+        Source : https://commons.wikimedia.org/wiki/File:MenstrualCycle2.png
+    </string>
+    <string name="siklus6">
+        Source : www.alodokter.com
+    </string>
+
+    <string name="gangguan">
+        Jika satu atau lebih gejala yang Anda alami saat sebelum atau selama masa menstruasi dan menyebabkan masalah timbul pada diri anda, kemungkinan besar anda mengalami "gangguan" siklus menstruasi.
+        Seperti:
+    </string>
+    <string name="gangguan1">
+        1. Abnormal uterine bleeding (AUB) atau pendarahan uterus abnormal , Pendarahan dianggap berat jika mengganggu aktivitas normal. Kehilangan darah selama periode menstruasi normal adalah sekitar 5 sendok makan,
+        tetapi jika mengalami pendarahan menstruasi yang berat, Anda mungkin mengalami pendarahan sebanyak 10 hingga 25 kali lipat dari jumlah itu setiap bulan.
+        Anda mungkin harus mengganti tampon atau pembalut setiap jam, misalnya, tiga atau empat kali sehari.
+    </string>
+    <string name="gangguan2">
+        2. Dismenore (Kram menstruasi yang parah), Kebanyakan wanita pernah mengalami kram saat menstruasi, Tetapi jika kram terjadi sangat menyakitkan dan terus-menerus, ini disebut Dismenore,
+        dan Anda harus berkonsultasi dengan ahli kesehatan. Nyeri akibat kram menstruasi disebabkan oleh kontraksi rahim, yang dipicu oleh prostaglandin, zat mirip hormon yang diproduksi oleh sel lapisan rahim dan beredar di aliran darah.
+
+    </string>
+    <string name="gangguan2lanjutan">
+        Jika mengalami nyeri haid yang parah, mungkin juga mengalami diare atau pingsan (tiba-tiba menjadi pucat dan berkeringat). Itu karena prostaglandin mempercepat kontraksi di usus Anda,
+        mengakibatkan diare, dan menurunkan tekanan darah yang menyebabkan pusing.
+    </string>
+    <string name="gangguan3">
+        3. Premenstrual syndrome (PMS), PMS adalah istilah yang biasa digunakan untuk menggambarkan berbagai macam gejala fisik dan psikologis yang terkait dengan siklus menstruasi.
+        Gejala biasanya berkembang sekitar lima hingga tujuh hari sebelum menstruasi dan menghilang begitu menstruasi Anda dimulai atau segera setelahnya.
+    </string>
+    <string name="gangguan3.1">
+        Gejala fisik yang terkait dengan PMS meliputi : kembung, payudara bengkak dan nyeri, kelelahan, sembelit, sakit kepala.
+    </string>
+    <string name="gangguan3.2">
+        Gejala emosional yang terkait dengan PMS meliputi : marah, kecemasan, perubahan suasana hati, depresi, kurangnya konsentrasi.
+    </string>
+    <string name="gangguan4">
+        4. Premenstrual Dysphoric Disorder (PMDD), Gangguan PMDD jauh lebih parah daripada PMS. Gejala PMDD yang paling umum adalah peningkatan iritabilitas, kecemasan, dan perubahan suasana hati.
+        Wanita yang memiliki riwayat depresi berat, depresi pasca melahirkan, atau gangguan mood memiliki risiko lebih tinggi untuk mengalami PMDD dibandingkan wanita lain.
+    </string>
+    <string name="gangguan5">
+        Source : www.healthywomen.org
+    </string>
+    <string name="gangguan6">
+        Warna-warna dari darah menstruasi :
+    </string>
+    <string name="gangguan7">
+        1. Warna darah hitam atau coklat, bisa menjadi tanda penyumbatan vagina.
+    </string>
+    <string name="gangguan8">
+        2. Warna darah abu-abu, adalah tanda vaginosis bakteri.
+    </string>
+    <string name="gangguan9">
+        3. Warna darah oranye, adalah darah yang bercampur dengan cairan serviks.
+    </string>
+    <string name="gangguan10">
+        4. Warna coklat atau merah tua, darah yang bisa menjadi tanda awal kehamilan.
+    </string>
+    <string name="gangguan11">
+        5. Warna merah muda, bisa jadi merupakan tanda anemia atau pola makan yang tidak sehat.
+    </string>
+    <string name="gangguan12">
+        6. Warna darah merah cerah, segar dan merupakan tanda aliran yang stabil.
+    </string>
+    <string name="gangguan13">
+        Source : Instagram : @hellodoctor.com.ph
+    </string>
+
+
+
+    <string name="pencegahan">
+        Untuk masalah terkait siklus menstruasi seperti (seperti kram atau sindrom pramenstruasi). Anda dapat menerapkan beberapa langkah untuk mencegah dan meminimalkan ketidaknyamanan dan
+        nyeri saat gangguan menstruasi terjadi. seperti :
+    </string>
+    <string name="pencegahan1">
+        1. Mengubah pola makan Anda dengan mengurangi gula rafinasi, garam, nikotin, kafein dan alkohol, yang dapat memperburuk gejala PMS.
+    </string>
+    <string name="pencegahan2">
+        2. Berolahraga setidaknya 20 hingga 30 menit tiga kali seminggu, idealnya olahraga 30 menit (lima hari selama seminggu).
+    </string>
+    <string name="pencegahan3">
+        3. Tidur secara konsisten dengan waktu yang cukup (7 - 9 jam per hari) dan menetapkan rutinitas waktu tidur dapat membantu memberi isyarat kepada tubuh dan pikiran Anda untuk beristirahat.
+    </string>
+    <string name="pencegahan4">
+        4. Menyimpan daftar periksa gejala pramenstruasi untuk bersiap menghadapi jika terjadi masalah lebih serius.
+    </string>
+    <string name="pencegahan5">
+        Source : www.healthywomen.org
+    </string>
+
+
+    <string name="title_activity_1">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_siklusn">ScrollingActivity</string>
+    <string name="title_activity_siklust">ScrollingActivity</string>
+    <string name="title_activity_gangguan">ScrollingActivity</string>
+    <string name="title_activity_handler_panduan_scan_a_r">ScrollingActivity</string>
+    <string name="title_activity_pengertian">ScrollingActivity</string>
+
+    <string name="title_activity_pencegahan">ScrollingActivity</string>
+    <string name="title_activity_handler_panduan_scan">ScrollingActivity</string>
+
+    <string name="tentang">
+        Aplikasi ini ditujukan sebagai media edukasi menstruasi dengan scan augmented reality yang dapat menampilkan objek 3D untuk kepentingan edukasi.
+    </string>
+</resources>
