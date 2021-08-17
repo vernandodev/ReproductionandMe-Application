@@ -1,2 +1,2 @@
 # ReproductionandMe
-Aplikasi Augmented Reality Android Studio dengan Google Play AR
+Application Augmented Reality (Android Studio) with Google Play AR
